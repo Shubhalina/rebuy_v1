@@ -12,3 +12,13 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+
+# Ignoring unnecessary folders
+build/
+**/build/
+**/caches/
+**/daemon/
+**/kotlin-profile/
+**/native/
+**/workers/
+**/wrapper/
